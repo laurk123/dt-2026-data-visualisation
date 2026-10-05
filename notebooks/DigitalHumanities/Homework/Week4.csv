@@ -1,0 +1,31 @@
+Rank,City,Prefecture,Region,Population,Land Area km²,Density /km²
+1,Tokyo (23 Special Wards),Tokyo,Kanto,"9,733,264.00",627.60,"15,509.40"
+2,Yokohama,Kanagawa,Kanto,"3,777,491.00",437.70,"8,630.10"
+3,Osaka,Osaka,Kansai,"2,752,412.00",225.30,"12,215.00"
+4,Nagoya,Aichi,Chubu,"2,332,176.00",326.50,"7,144.10"
+5,Sapporo,Hokkaido,Hokkaido,"1,973,395.00","1,121.30","1,760.00"
+6,Fukuoka,Fukuoka,Kyushu,"1,612,392.00",343.50,"4,694.40"
+7,Kawasaki,Kanagawa,Kanto,"1,538,262.00",144.40,"10,656.50"
+8,Kobe,Hyogo,Kansai,"1,525,152.00",557.00,"2,738.00"
+9,Kyoto,Kyoto,Kansai,"1,463,723.00",827.80,"1,768.10"
+10,Saitama,Saitama,Kanto,"1,324,025.00",217.40,"6,089.40"
+11,Hiroshima,Hiroshima,Chugoku,"1,200,754.00",906.70,"1,324.30"
+12,Sendai,Miyagi,Tohoku,"1,096,704.00",786.30,"1,394.80"
+13,Chiba,Chiba,Kanto,"974,951.00",271.80,"3,587.40"
+14,Kitakyushu,Fukuoka,Kyushu,"939,029.00",492.00,"1,908.80"
+15,Sakai,Osaka,Kansai,"826,161.00",149.80,"5,514.40"
+16,Hamamatsu,Shizuoka,Chubu,"790,718.00","1,558.10",507.50
+17,Niigata,Niigata,Chubu,"789,275.00",726.50,"1,086.50"
+18,Kumamoto,Kumamoto,Kyushu,"738,865.00",390.30,"1,893.00"
+19,Sagamihara,Kanagawa,Kanto,"725,493.00",252.90,"2,868.60"
+20,Okayama,Okayama,Chugoku,"724,691.00",789.90,917.40
+21,Shizuoka,Shizuoka,Chubu,"693,389.00","1,411.90",491.10
+22,Funabashi,Chiba,Kanto,"642,907.00",85.60,"7,508.80"
+23,Kawaguchi,Saitama,Kanto,"594,274.00",62.00,"9,592.80"
+24,Kagoshima,Kagoshima,Kyushu,"593,128.00",547.60,"1,083.10"
+25,Hachioji,Tokyo,Kanto,"577,938.00",186.40,"3,100.90"
+26,Himeji,Hyogo,Kansai,"530,495.00",534.40,992.60
+27,Utsunomiya,Tochigi,Kanto,"518,757.00",416.90,"1,244.50"
+28,Matsuyama,Ehime,Shikoku,"511,192.00",429.40,"1,190.60"
+29,Higashiosaka,Osaka,Kansai,"502,784.00",61.80,"8,138.30"
+30,Matsudo,Chiba,Kanto,"498,232.00",61.40,"8,117.20"
